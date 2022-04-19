@@ -1,0 +1,1 @@
+export const vacationReason = ['Select a reason', 'Papers','Family Event'];
